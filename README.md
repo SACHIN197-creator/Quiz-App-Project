@@ -93,11 +93,11 @@ OR
 
 ### Quiz Screen
 
-![Quiz Page](images/Ques.png)
+![Quiz Page](images/ques.png)
 
 ### Quiz Screen
 
-![Quiz Page](images/Ques2.png)
+![Quiz Page](images/ques2.png)
 
 ### Leaderboard
 
