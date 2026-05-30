@@ -58,27 +58,21 @@ Quiz-App/
 
 ## ⚙️ How to Run Locally
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/quiz-app.git
-```
-
-2. Open the project folder
+1. Open the project folder
 
 ```bash
 cd quiz-app
 ```
 
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 OR
 
-4. Run using VS Code Live Server Extension
+3. Run using VS Code Live Server Extension
 
 ---
 
-## 🎮 How It Works
+##  How It Works
 
 1. Enter your name.
 2. Click **Start Quiz**.
@@ -95,19 +89,19 @@ OR
 
 ### Home Screen
 
-Add screenshot here
+![Home Page](images/home.png)
 
 ### Quiz Screen
 
-Add screenshot here
+![Quiz Page](images/Ques.png)
 
-### Result Screen
+### Quiz Screen
 
-Add screenshot here
+![Quiz Page](images/Ques2.png)
 
 ### Leaderboard
 
-Add screenshot here
+![Leaderboard](images/leaderboard.png)
 
 ---
 
@@ -120,6 +114,3 @@ BCA Student | Web Development Enthusiast
 
 ---
 
-## 📄 License
-
-This project is created for educational and learning purposes.
