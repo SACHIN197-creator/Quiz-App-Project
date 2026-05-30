@@ -7,7 +7,7 @@ A modern and responsive Quiz Application built using HTML5, CSS3, JavaScript (ES
 Add your deployed link here:
 
 ```text
-https://your-live-demo-link.com
+https://sachin197-creator.github.io/Quiz-App-Project/
 ```
 
 ---
