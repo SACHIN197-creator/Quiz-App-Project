@@ -4,7 +4,7 @@ A modern and responsive Quiz Application built using HTML5, CSS3, JavaScript (ES
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](https://sachin197-creator.github.io/Quiz-App-Project/)
+🔗 [View Live Project](https://6a23978e55a73ba8ed242d52--eloquent-sherbet-aa845b.netlify.app/)
 ---
 
 ## 📌 Features
