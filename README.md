@@ -24,10 +24,10 @@ A modern and responsive Quiz Application built using HTML5, CSS3, JavaScript (ES
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap 5
+- HTML
+- CSS
+- JavaScript 
+- Bootstrap 
 - Local Storage API
 
 ---
