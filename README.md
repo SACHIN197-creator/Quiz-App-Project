@@ -1,6 +1,6 @@
 # 🎯 Interactive Quiz App
 
-A modern and responsive Quiz Application built using HTML5, CSS3, JavaScript (ES6+), and Bootstrap 5. The application provides an engaging quiz experience with real-time scoring, timer functionality, progress tracking, dark mode, and a local leaderboard.
+A modern and responsive Quiz Application built using HTML, CSS, JavaScript, and Bootstrap. The application provides an engaging quiz experience with real-time scoring, timer functionality, progress tracking, dark mode, and a local leaderboard.
 
 ## 🚀 Live Demo
 
